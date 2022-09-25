@@ -32,6 +32,7 @@ $RECYCLE.BIN/
 *.msp
 
 
+
 ############################
 # Packages
 ############################
@@ -112,3 +113,5 @@ exports
 *.cache
 build
 .strapi-updater.json
+
+backend/package-lock.json
