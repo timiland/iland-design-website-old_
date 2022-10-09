@@ -6,8 +6,7 @@
     "@strapi/strapi": "^4.3.9",
     "better-sqlite3": "7.4.6",
     "lodash.set": "^4.3.2",
-    "pg": "^8.8.0",
-    "pg-connection-string": "^2.5.0"
+    "pg": "^8.8.0"
   },
   "name": "backend",
   "private": true,
